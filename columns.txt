@@ -1,0 +1,1 @@
+gender,influential_factors,unclear_mission,misalign_actions,social_impact,working_environment,manager_preferences,job_DesignAndDevelopAmazingSoftware,team_WorkWith2To3PeopleInMyTeam
