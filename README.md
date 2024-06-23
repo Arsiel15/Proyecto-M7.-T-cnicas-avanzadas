@@ -18,9 +18,13 @@ Para utilizar este proyecto, sigue los siguientes pasos:
    ```
 
 4. **Ejecuta el archivo principal:**
-   Corre el archivo `.py` llamado `Modelo`.
 
-5. **Ejecución de Ngrok:**
+   Corre el archivo:
+   ```sh
+   python model.py
+   ```
+
+6. **Ejecución de Ngrok:**
    Se debe de descargar la Setup & Installation de Ngrok, una vez registrados desde el dashboard.
    Desde el ngrok.exe, introducir:
    ```sh
