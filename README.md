@@ -35,7 +35,8 @@ Para utilizar este proyecto, sigue los siguientes pasos:
    Luego, ejecuta la aplicación `APP` desde la terminal, utilizando
      ```sh
    python APP.py
-   ``` 
+   ```
+   Posterior a eso, se debe de copiar el url indicado en Running on.   
 
 7. **Para hacer peticiones al API:**
    Puedes utilizar Postman, colocando el URL que nos proporciona Ngrok y el endpoint `/predict`. Además, se necesita enviar los datos de la encuesta en forma de diccionario con la clave `"datos"`, y en el valor se debe colocar el registro de la encuesta unido por `";"`.
