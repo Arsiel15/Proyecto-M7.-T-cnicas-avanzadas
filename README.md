@@ -4,11 +4,11 @@ Para utilizar este proyecto sigue los siguientes pasos:
    ```bash
    git clone https://github.com/Arsiel15/Proyecto-M7.-T-cnicas-avanzadas.git
 
-2. Create a virtual environment:
+2. Crea un ambiente virtual:
    ```bash
     python -m venv venv
 
-3. Install the required Python packages:
+3. Instala los paquetes de Python necesarios:
     ```bash
     pip install -r requirements.txt
 
